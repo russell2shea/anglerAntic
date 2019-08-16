@@ -1,0 +1,1 @@
+﻿package{	import flash.display.MovieClip;	public class Hp extends MovieClip 	{		public function Hp(  ) 		{ this.gotoAndStop(1);		//trace("hpregister");	}	public function HLose() {		//trace("wtf");		this.nextFrame();	}		}}
